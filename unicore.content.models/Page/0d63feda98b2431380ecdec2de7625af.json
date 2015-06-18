@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "El embarazo antes de los 18 an\u0303os, o despue\u0301s de los 35, aumenta los riesgos para la salud de la madre y el recie\u0301n nacido", 
+  "description": "El embarazo antes de los 18 a\u00f1os, o despu\u00e9s de los 35, aumenta los riesgos para la salud de la madre y el reci\u00e9n nacido. ", 
   "language": "spa_ES", 
-  "title": "El embarazo antes de los 18 an\u0303os, o despue\u0301s de los 35, aumenta los riesgos para la salud de la madre y el recie\u0301n nacido", 
+  "title": "El embarazo antes de los 18 a\u00f1os, o despu\u00e9s de los 35, aumenta los riesgos para la salud de la madre y el reci\u00e9n nacido. ", 
   "primary_category": "90b731c7f82f4d87afd7f0da83b20d18", 
   "created_at": "2014-12-26T13:38:33+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-24T18:42:40.771891+00:00", 
+  "modified_at": "2015-06-18T19:36:03.362311+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
