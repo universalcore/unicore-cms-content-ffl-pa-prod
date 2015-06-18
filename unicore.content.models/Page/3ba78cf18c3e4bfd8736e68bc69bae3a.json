@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Los riesgos para la salud asociados con la maternidad se incrementan cuando la mujer ha tenido muchos embarazos.", 
+  "description": "Los trabajadores sanitarios capacitados y los centros de asistencia deben ofrecer informaci\u00f3n y asesoramiento para que las mujeres puedan tomar decisiones adecuadas sobre la planificaci\u00f3n de sus familias, y para que junto con sus parejas puedan elegir un m\u00e9todo de planificaci\u00f3n familiar adecuada, segura, conveniente, eficaz y accesible.", 
   "language": "spa_ES", 
-  "title": "Los riesgos para la salud asociados con la maternidad se incrementan cuando la mujer ha tenido muchos embarazos.", 
+  "title": "Los trabajadores sanitarios capacitados y los centros de asistencia deben ofrecer informaci\u00f3n y asesoramiento para que las mujeres puedan tomar decisiones adecuadas", 
   "primary_category": "90b731c7f82f4d87afd7f0da83b20d18", 
-  "created_at": "2014-12-26T13:42:03.319496+00:00", 
+  "created_at": "2014-12-26T13:42:03+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-24T18:18:06.968415+00:00", 
+  "modified_at": "2015-06-18T20:52:50.584211+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
