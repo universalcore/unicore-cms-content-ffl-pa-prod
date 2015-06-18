@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Para preservar la salud de la madre y el recie\u0301n nacido, es aconsejable que transcurran dos an\u0303os entre el nacimiento del u\u0301ltimo hijo y el comienzo del siguiente embarazo", 
+  "description": "Para preservar la salud de la madre y el reci\u00e9n nacido, es aconsejable que transcurran dos a\u00f1os entre el nacimiento del ultimo hijo y el comienzo del siguiente embarazo \r\nLos riesgos para la salud asociados con la maternidad se incrementan cuando la mujer ha tenido muchos embarazos.\r\n", 
   "language": "spa_ES", 
-  "title": "Para preservar la salud de la madre y el recie\u0301n nacido, es aconsejable que transcurran dos an\u0303os entre el nacimiento del u\u0301ltimo hijo y el comienzo del siguiente embarazo", 
+  "title": "Para preservar la salud de la madre y el reci\u00e9n nacido, es aconsejable que transcurran dos a\u00f1os entre el nacimiento del ultimo hijo y el comienzo del siguiente embarazo ", 
   "primary_category": "90b731c7f82f4d87afd7f0da83b20d18", 
-  "created_at": "2014-12-26T13:40:57.339160+00:00", 
+  "created_at": "2014-12-26T13:40:57+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-24T18:18:08.069703+00:00", 
+  "modified_at": "2015-06-18T20:53:30.077761+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
