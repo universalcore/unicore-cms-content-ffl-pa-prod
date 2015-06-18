@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "La leche materna es, por si\u0301 sola, el mejor alimento y la mejor bebida que puede recibir un bebe\u0301 durante sus primeros seis meses de vida. El lactante no necesita ningu\u0301n otro alimento ni bebida \u2013ni siquiera agua\u2013 durante este peri\u0301odo.", 
+  "description": "La leche materna es, por si\u0301 sola, el mejor alimento y la mejor bebida que puede recibir un bebe\u0301 durante sus primeros seis meses de vida. ", 
   "language": "spa_ES", 
-  "title": "La leche materna es, por si\u0301 sola, el mejor alimento y la mejor bebida que puede recibir un bebe\u0301 durante sus primeros seis meses de vida. El lactante no necesita ningu\u0301n otro alimento ni bebida \u2013ni s", 
+  "title": "La leche materna es, por si\u0301 sola, el mejor alimento y la mejor bebida que puede recibir un bebe\u0301 durante sus primeros seis meses de vida. ", 
   "primary_category": "377891a80fe44dcca51650e91c314611", 
-  "created_at": "2015-01-01T22:24:17.353431+00:00", 
+  "created_at": "2015-01-01T22:24:17+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-01T22:24:17.353637+00:00", 
+  "modified_at": "2015-06-18T19:31:26.522815+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
