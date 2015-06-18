@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Los servicios de planificacio\u0301n familiar proporcionan a los hombres y a las mujeres en edad de procrear informacio\u0301n y medios para decidir cua\u0301ndo empezar a tener hijos, cua\u0301ntos tener, con que\u0301 diferencia de tiempo y cua\u0301ndo dejar de procrear. Existen muchos me\u0301todos seguros, eficaces y aceptables para planificar la llegada de los hijos y evitar los embarazos.", 
+  "description": "Los trabajadores sanitarios capacitados y los centros de asistencia tambi\u00e9n deber\u00edan poder suministrar informaci\u00f3n a las adolescentes sobre educaci\u00f3n en salud sexual de acuerdo con su edad y sus necesidades. Esta informaci\u00f3n debe ayudarles a tomar decisiones responsables y acertadas respecto a su salud. \r\nLos ni\u00f1os, los adolescentes y los hombres adultos desempe\u00f1an un papel clave a la hora de prevenir los embarazos no planificados. Por esta raz\u00f3n, deben tener acceso a informaci\u00f3n y a servicios relacionados con su salud sexual.\r\n", 
   "language": "spa_ES", 
-  "title": "Los servicios de planificacio\u0301n familiar proporcionan a los hombres y a las mujeres en edad de procrear informacio\u0301n y medios para decidir cua\u0301ndo empezar a tener hijos, cua\u0301ntos tener, con que\u0301 difer", 
+  "title": "Los trabajadores sanitarios capacitados y los centros de asistencia tambi\u00e9n deber\u00edan poder suministrar informaci\u00f3n a las adolescentes sobre educaci\u00f3n en salud sexual de acuerdo con su edad y sus neces", 
   "primary_category": "90b731c7f82f4d87afd7f0da83b20d18", 
-  "created_at": "2014-12-26T13:44:29.929148+00:00", 
+  "created_at": "2014-12-26T13:44:29+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-24T18:18:06.851486+00:00", 
+  "modified_at": "2015-06-18T20:52:05.670686+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
