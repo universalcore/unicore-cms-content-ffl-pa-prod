@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Es preciso proteger a los nin\u0303os y nin\u0303as frente a cualquier tipo de trabajo que sea peligroso. Los nin\u0303os y nin\u0303as nunca deberi\u0301an participar en las peores formas de trabajo infantil como la esclavitud, el trabajo forzoso, la produccio\u0301n o el tra\u0301fico de drogas.", 
+  "description": "Los nin\u0303os y nin\u0303as pueden correr el riesgo de ser v\u00edctimas del abuso o la explotaci\u00f3n sexual en sus hogares, sus lugares de trabajo o sus comunidades. Las autoridades naciones, locales y comunidades deben adoptar medidas para prevenir el abuso y la explotaci\u00f3n sexual. Los nin\u0303os y nin\u0303as que hayan sufrido abusos y explotaci\u00f3n sexual requieren de atenci\u00f3n y apoyo inmediato para poner fin a cualquier forma de maltrato. ", 
   "language": "spa_ES", 
-  "title": "Es preciso proteger a los nin\u0303os y nin\u0303as frente a cualquier tipo de trabajo que sea peligroso. Los nin\u0303os y nin\u0303as nunca deberi\u0301an participar en las peores formas de trabajo infantil como la esclavit", 
+  "title": "Los nin\u0303os y nin\u0303as pueden correr el riesgo de ser v\u00edctimas del abuso o la explotaci\u00f3n sexual en sus hogares, sus lugares de trabajo o sus comunidades. ", 
   "primary_category": "f7530af2e7384c7095b65f2139c969d4", 
-  "created_at": "2015-01-05T12:35:38.174947+00:00", 
+  "created_at": "2015-01-05T12:35:38+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-24T18:53:33.715176+00:00", 
+  "modified_at": "2015-06-18T20:33:01.272778+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
