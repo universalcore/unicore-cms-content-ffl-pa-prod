@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "La diarrea acaba con la vida del nin\u0303o o nin\u0303a porque drena los li\u0301quidos de su cuerpo, haciendo que se deshidrate. Es esencial que el nin\u0303o o nin\u0303a ingiera fluidos adicionales, adema\u0301s de los alimentos y li\u0301quidos habituales, tan pronto como comience a mostrar si\u0301ntomas de diarrea.", 
+  "description": "La diarrea es la segunda causa m\u00e1s habitual de muerte en los ni\u00f1os y ni\u00f1as de corta edad. La diarrea acaba con la vida del ni\u00f1o o ni\u00f1a porque los hace perder l\u00edquidos de su cuerpo, llev\u00e1ndolos a la deshidrataci\u00f3n. ", 
   "language": "spa_ES", 
-  "title": "La diarrea acaba con la vida del nin\u0303o o nin\u0303a porque drena los li\u0301quidos de su cuerpo, haciendo que se deshidrate. Es esencial que el nin\u0303o o nin\u0303a ingiera fluidos adicionales, adema\u0301s de los aliment", 
+  "title": "La diarrea es la segunda causa m\u00e1s habitual de muerte en los ni\u00f1os y ni\u00f1as de corta edad. La diarrea acaba con la vida del ni\u00f1o o ni\u00f1a porque los hace perder l\u00edquidos de su cuerpo, llev\u00e1ndolos a la de", 
   "primary_category": "ec3b20544ae24910b044adecb8267eef", 
-  "created_at": "2015-01-04T17:32:14.030946+00:00", 
+  "created_at": "2015-01-04T17:32:14+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-04T17:32:14.031710+00:00", 
+  "modified_at": "2015-06-18T19:27:58.756057+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
