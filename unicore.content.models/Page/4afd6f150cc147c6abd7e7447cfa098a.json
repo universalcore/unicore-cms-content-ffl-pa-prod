@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Las quemaduras pueden evitarse manteniendo a los nin\u0303os alejados de los fuegos, los fogones de la cocina, los li\u0301quidos y alimentos calientes y los cables de electricidad expuestos.", 
+  "description": "Las quemaduras pueden evitarse manteniendo a los nin\u0303os alejados de los fuegos, los fogones de la cocina, los l\u00edquidos y alimentos calientes y los cables de electricidad expuestos. ", 
   "language": "spa_ES", 
-  "title": "Las quemaduras pueden evitarse manteniendo a los nin\u0303os alejados de los fuegos, los fogones de la cocina, los li\u0301quidos y alimentos calientes y los cables de electricidad expuestos.", 
+  "title": "Las quemaduras pueden evitarse manteniendo a los nin\u0303os alejados de los fuegos, los fogones de la cocina, los l\u00edquidos y alimentos calientes y los cables de electricidad expuestos. ", 
   "primary_category": "c8f7611c01274001a863fbc6c0b3b216", 
-  "created_at": "2015-01-05T12:57:11.400926+00:00", 
+  "created_at": "2015-01-05T12:57:11+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-24T18:51:21.481665+00:00", 
+  "modified_at": "2015-06-18T20:33:46.355080+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
