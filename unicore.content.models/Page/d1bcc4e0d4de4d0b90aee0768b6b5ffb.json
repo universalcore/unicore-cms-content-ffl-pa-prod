@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Cualquier persona que desee saber co\u0301mo prevenir el VIH o que crea que padece VIH deberi\u0301a contactar con un proveedor de atencio\u0301n sanitaria o un centro de atencio\u0301n del SIDA para obtener informacio\u0301n sobre co\u0301mo prevenir el VIH y orientacio\u0301n sobre do\u0301nde puede realizarse la prueba de deteccio\u0301n del VIH y recibir asesoramiento, atencio\u0301n y apoyo.", 
+  "description": "Cualquier persona que desee saber c\u00f3mo prevenir el VIH, o que crea que lo padece deber\u00eda contactar con un proveedor de atenci\u00f3n sanitaria o un centro de atenci\u00f3n del SIDA para obtener informaci\u00f3n sobre c\u00f3mo prevenir el VIH, as\u00ed como orientaci\u00f3n sobre d\u00f3nde puede realizarse la prueba de detecci\u00f3n del VIH, y recibir asesoramiento, atenci\u00f3n y apoyo. ", 
   "language": "spa_ES", 
-  "title": "Cualquier persona que desee saber co\u0301mo prevenir el VIH o que crea que padece VIH deberi\u0301a contactar con un proveedor de atencio\u0301n sanitaria o un centro de atencio\u0301n del SIDA para obtener informacio\u0301n", 
+  "title": "Cualquier persona que desee saber c\u00f3mo prevenir el VIH, o que crea que lo padece deber\u00eda contactar con un proveedor de atenci\u00f3n sanitaria o un centro de atenci\u00f3n del SIDA para obtener informaci\u00f3n", 
   "primary_category": "96e250d51b0c4a28ade4c73ff556bd3e", 
-  "created_at": "2015-01-04T20:35:35.997282+00:00", 
+  "created_at": "2015-01-04T20:35:35+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-26T12:47:10.200829+00:00", 
+  "modified_at": "2015-06-18T19:52:05.585446+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
