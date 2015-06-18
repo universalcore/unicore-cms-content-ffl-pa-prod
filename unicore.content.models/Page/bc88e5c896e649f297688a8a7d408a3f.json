@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "A veces la tos es si\u0301ntoma de un problema grave. Un nin\u0303o o nin\u0303a que respire agitadamente o con dificultad podri\u0301a padecer neumoni\u0301a, una infeccio\u0301n de los pulmones. La neumoni\u0301a es una enfermedad muy grave. El nin\u0303o o nin\u0303a precisa tratamiento inmediato por parte de un trabajador sanitario capacitado, que adema\u0301s pueda referirle a un centro de salud.", 
+  "description": "La tos en los ni\u00f1os y ni\u00f1as muchas veces es s\u00edntoma de un problema grave. Un nin\u0303o o ni\u00f1a que respire con dificultad o agitadamente podr\u00eda estar padeciendo de neumon\u00eda. La neumon\u00eda es una enfermedad muy grave. El nin\u0303o o nin\u0303a precisa tratamiento inmediato por parte de un trabajador sanitario capacitado, que adem\u00e1s pueda referirle a un centro de salud. ", 
   "language": "spa_ES", 
-  "title": "A veces la tos es si\u0301ntoma de un problema grave. Un nin\u0303o o nin\u0303a que respire agitadamente o con dificultad podri\u0301a padecer neumoni\u0301a, una infeccio\u0301n de los pulmones. La neumoni\u0301a es una enfermedad mu", 
+  "title": "La tos en los ni\u00f1os y ni\u00f1as muchas veces es s\u00edntoma de un problema grave. ", 
   "primary_category": "c2475be24aad4e6fadd7bb8e80135ee2", 
-  "created_at": "2015-01-04T18:28:23.355416+00:00", 
+  "created_at": "2015-01-04T18:28:23+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-26T13:00:38.661549+00:00", 
+  "modified_at": "2015-06-18T19:56:26.970935+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
