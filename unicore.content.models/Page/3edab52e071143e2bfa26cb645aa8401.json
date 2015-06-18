@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Todas las mujeres embarazadas y sus hijos reci\u00e9n nacidos deben estar protegidos\r\ncontra el t\u00e9tanos. Las mujeres que ya est\u00e1n vacunadas contra esta enfermedad\r\ndeben, no obstante, consultar con un agente de salud sobre la necesidad de\r\nprotegerse contra el toxoide tet\u00e1nico", 
+  "description": "Todas las mujeres embarazadas y sus hijos reci\u00e9n nacidos deben estar protegidos contra el t\u00e9tanos. Las mujeres que ya est\u00e1n vacunadas contra esta enfermedad deben, no obstante, consultar con un agente de salud sobre la necesidad de protegerse contra el t\u00e9tano.  Se debe utilizar una jeringa nueva para cada persona que se vacuna, y todas las personas deben exigir que este requisito se cumpla. ", 
   "language": "spa_ES", 
-  "title": "Todas las mujeres embarazadas y sus hijos reci\u00e9n nacidos deben estar protegidos contra el t\u00e9tanos. Las mujeres que ya est\u00e1n vacunadas contra esta enfermedad deben, no obstante, consultar con un agente", 
+  "title": "Todas las mujeres embarazadas y sus hijos reci\u00e9n nacidos deben estar protegidos contra el t\u00e9tanos.", 
   "primary_category": "d54cc05a9ab94ef3a04d145353093040", 
   "created_at": "2015-02-24T20:44:24+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-26T12:51:25.684040+00:00", 
+  "modified_at": "2015-06-18T20:36:42.348292+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
