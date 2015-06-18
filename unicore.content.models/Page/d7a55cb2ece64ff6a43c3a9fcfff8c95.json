@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Un nin\u0303o de corta edad debe crecer y aumentar de peso con rapidez. Desde el nacimiento hasta los 2 an\u0303os, se debe pesar perio\u0301dicamente a los nin\u0303os para evaluar su crecimiento. Si no se aprecia un aumento de peso, o si los progenitores y otros cuidadores consideran que el nin\u0303o no esta\u0301 creciendo, se debe suponer que existe algu\u0301n problema, en cuyo caso es indispensable hacerlo examinar por un agente de salud capacitado.", 
+  "description": "Un ni\u00f1o o ni\u00f1a de corta edad debe crecer y aumentar de peso con rapidez. Desde que el ni\u00f1o nace hasta que cumple los dos (2) a\u00f1os, se debe controlar su peso de manera peri\u00f3dica para evaluar su crecimiento.", 
   "language": "spa_ES", 
   "title": "Un nin\u0303o de corta edad debe crecer y aumentar de peso con rapidez. Desde el nacimiento hasta los 2 an\u0303os, se debe pesar perio\u0301dicamente a los nin\u0303os para evaluar su crecimiento. Si no se aprecia un au", 
   "primary_category": "016cd27155064bbe978b857a25a3ac5d", 
-  "created_at": "2015-01-02T15:26:22.949248+00:00", 
+  "created_at": "2015-01-02T15:26:22+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-02T15:26:22.949477+00:00", 
+  "modified_at": "2015-06-18T19:29:25.801719+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
