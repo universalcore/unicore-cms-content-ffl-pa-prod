@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "La inmunizaci\u00f3n es una medida urgente. Todos los ni\u00f1os deben completar el\r\ncalendario de vacunaci\u00f3n recomendado. Es fundamental proteger a los ni\u00f1os de\r\nmanera temprana; no obstante, la vacunaci\u00f3n en los dos primeros a\u00f1os de vida\r\nreviste una importancia especial. Todos los progenitores y las personas que cuidan a\r\nlos ni\u00f1os deben seguir las instrucciones de un trabajador sanitario calificado sobre el\r\ncalendario de vacunaci\u00f3n.", 
+  "description": "La inmunizaci\u00f3n de los ni\u00f1os y ni\u00f1as es una medida urgente. Los ni\u00f1os deben ser vacunados temprano en la vida y velar porque los lactantes, tanto ni\u00f1os y ni\u00f1as reciban las vacunas recomendadas de acuerdo con el calendario de vacunaci\u00f3n  recomendado. La vacunaci\u00f3n en los dos primeros a\u00f1os de vida tiene vital importancia. Todos los padres, madres y personas que cuidan a los ni\u00f1os y ni\u00f1as deben seguir las instrucciones de los trabajadores sanitarios calificados. ", 
   "language": "spa_ES", 
   "title": "La inmunizaci\u00f3n es una medida urgente. Todos los ni\u00f1os deben completar el calendario de vacunaci\u00f3n recomendado. Es fundamental proteger a los ni\u00f1os de manera temprana; no obstante, la vacunaci\u00f3n en lo", 
   "primary_category": "d54cc05a9ab94ef3a04d145353093040", 
   "created_at": "2015-02-24T20:34:26+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-10T12:26:38.468347+00:00", 
+  "modified_at": "2015-06-18T19:03:18.560124+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
