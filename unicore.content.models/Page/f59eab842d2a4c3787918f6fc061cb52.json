@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "La lactancia materna protege a los recie\u0301n nacidos y a los nin\u0303os de corta edad contra enfermedades peligrosas, y genera un vi\u0301nculo especial entre la madre y su hijo.", 
+  "description": "La lactancia materna protege a los reci\u00e9n nacidos y a los ni\u00f1os de corta edad contra enfermedades peligrosas, y genera un v\u00ednculo especial entre la madre y su hijo. ", 
   "language": "spa_ES", 
-  "title": "La lactancia materna protege a los recie\u0301n nacidos y a los nin\u0303os de corta edad contra enfermedades peligrosas, y genera un vi\u0301nculo especial entre la madre y su hijo.", 
+  "title": "La lactancia materna protege a los reci\u00e9n nacidos y a los ni\u00f1os de corta edad contra enfermedades peligrosas, y genera un v\u00ednculo especial entre la madre y su hijo. ", 
   "primary_category": "377891a80fe44dcca51650e91c314611", 
-  "created_at": "2015-01-01T22:32:31.806551+00:00", 
+  "created_at": "2015-01-01T22:32:31+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-24T18:23:01.519379+00:00", 
+  "modified_at": "2015-06-18T20:11:57.685688+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
