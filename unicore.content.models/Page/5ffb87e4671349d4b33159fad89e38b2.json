@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Todos los nin\u0303os y nin\u0303as que nacen de madres portadoras del VIH o de progenitores que presentan si\u0301ntomas, indicios o afecciones asociados a la infeccio\u0301n por VIH deberi\u0301an realizarse la prueba de deteccio\u0301n del VIH. Si la prueba resultara positiva, se les debera\u0301 remitir a un establecimiento me\u0301dico donde les proporcionen cuidados y atencio\u0301n de seguimiento, y donde les brinden carin\u0303o y apoyo.", 
+  "description": "Todos los nin\u0303os y nin\u0303as que nacen de madres portadoras del VIH o de progenitores que presentan s\u00edntomas, indicios o afecciones asociados a la infecci\u00f3n por VIH deber\u00edan realizarse la prueba de detecci\u00f3n del VIH.  Si la prueba resultara positiva, se les deber\u00e1\u0301 remitir a un establecimiento m\u00e9dico donde les proporcionen cuidados y atenci\u00f3n de seguimiento, y donde les brinde apoyo. ", 
   "language": "spa_ES", 
-  "title": "Todos los nin\u0303os y nin\u0303as que nacen de madres portadoras del VIH o de progenitores que presentan si\u0301ntomas, indicios o afecciones asociados a la infeccio\u0301n por VIH deberi\u0301an realizarse la prueba de de", 
+  "title": "Todos los nin\u0303os y nin\u0303as que nacen de madres portadoras del VIH o de progenitores que presentan s\u00edntomas, indicios o afecciones asociados a la infecci\u00f3n por VIH deber\u00edan realizarse la prueba", 
   "primary_category": "96e250d51b0c4a28ade4c73ff556bd3e", 
-  "created_at": "2015-01-04T20:41:40.192055+00:00", 
+  "created_at": "2015-01-04T20:41:40+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-26T12:47:10.502589+00:00", 
+  "modified_at": "2015-06-18T20:18:19.643053+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
