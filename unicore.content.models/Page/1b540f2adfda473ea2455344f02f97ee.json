@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "La inmunizaci\u00f3n protege contra varias enfermedades peligrosas. Los ni\u00f1os que no\r\nest\u00e1n vacunados tienen m\u00e1s probabilidades de enfermarse, de estar desnutridos,\r\nde sufrir una discapacidad permanente e, incluso, de morir.", 
+  "description": "Vacunar a los ni\u00f1os y ni\u00f1as cuando presentan alguna enfermedad de menor importancia como fiebre, tos, catarro, o similar no representa ning\u00fan riesgo para el ni\u00f1o.", 
   "language": "spa_ES", 
-  "title": "La inmunizaci\u00f3n protege contra varias enfermedades peligrosas. Los ni\u00f1os que no est\u00e1n vacunados tienen m\u00e1s probabilidades de enfermarse, de estar desnutridos, de sufrir una discapacidad permanente e, ", 
+  "title": "Vacunar a los ni\u00f1os y ni\u00f1as cuando presentan alguna enfermedad de menor importancia como fiebre, tos, catarro, o similar no representa ning\u00fan riesgo para el ni\u00f1o.", 
   "primary_category": "d54cc05a9ab94ef3a04d145353093040", 
-  "created_at": "2015-02-24T20:38:58.761561+00:00", 
+  "created_at": "2015-02-24T20:38:58+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-26T12:50:17.727434+00:00", 
+  "modified_at": "2015-06-18T19:41:28.249603+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
