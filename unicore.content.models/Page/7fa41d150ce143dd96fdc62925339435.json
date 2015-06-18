@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Los primeros a\u00f1os de vida, pero especialmente los tres primeros, son de suma importancia para el desarrollo del cerebro.Todo lo que el ni\u00f1o ve, toca, saborea, oye o huele moldea su cerebro para permitirle pensar, sentir, moverse y aprender.", 
+  "description": "Los primeros a\u00f1os de vida de un ni\u00f1o son de suma importancia para su desarrollo, y los 3 primeros a\u00f1os de vida son clave para el desarrollo de su cerebro.", 
   "language": "spa_ES", 
-  "title": "Los primeros a\u00f1os de vida, pero especialmente los tres primeros, son de suma importancia para el desarrollo del cerebro.Todo lo que el ni\u00f1o ve, toca, saborea, oye o huele moldea su cerebro para perm", 
+  "title": "Los primeros a\u00f1os de vida de un ni\u00f1o son de suma importancia para su desarrollo, y los 3 primeros a\u00f1os de vida son clave para el desarrollo de su cerebro.", 
   "primary_category": "ec4f959214214ddc8612b6d0a6e90060", 
   "created_at": "2015-01-01T21:53:54+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-24T18:21:32.357811+00:00", 
+  "modified_at": "2015-06-18T19:33:19.384129+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
