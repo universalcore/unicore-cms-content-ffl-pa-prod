@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Una epidemia (o un brote) de enfermedad puede ocasionar una situacio\u0301n de emergencia debido a la gravedad de la enfermedad o a la reaccio\u0301n ante e\u0301sta. En el caso de la gripe pande\u0301mica y otras enfermedades que se propagan mediante el contacto personal cercano, es preciso mantener a las personas que esta\u0301n enfermas alejadas del resto.", 
+  "description": "Una epidemia de enfermedad puede ocasionar una situaci\u00f3n de emergencia debido a la gravedad de la enfermedad o a la reacci\u00f3n ante \u00e9sta. En el caso de la gripe pande\u0301mica y otras enfermedades que se propagan mediante el contacto personal cercano, es preciso mantener a las personas que esta\u0301n enfermas alejadas del resto.", 
   "language": "spa_ES", 
   "title": "Una epidemia (o un brote) de enfermedad puede ocasionar una situacio\u0301n de emergencia debido a la gravedad de la enfermedad o a la reaccio\u0301n ante e\u0301sta. En el caso de la gripe pande\u0301mica y otras enferm", 
   "primary_category": "5f8b0bde4c0b41259dae1fde11f4bd34", 
-  "created_at": "2015-01-05T16:00:13.424197+00:00", 
+  "created_at": "2015-01-05T16:00:13+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-24T18:59:01.965896+00:00", 
+  "modified_at": "2015-06-18T20:34:20.615204+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
