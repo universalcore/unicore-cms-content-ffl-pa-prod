@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Siempre y cuando empiecen a procrear despue\u0301s de los 18 an\u0303os, las nin\u0303as que han asistido a la escuela, que gozan de buena salud y que han tenido una dieta nutritiva durante la infancia y la adolescencia tienen mayores probabilidades de dar a luz hijos sanos y de no sufrir complicaciones durante el embarazo y el parto.", 
+  "description": "Cuando la mujer empieza a procrear posterior a sus 18 a\u00f1os de edad, ha asistido a la escuela, goza de buena salud y se ha nutrido adecuadamente desde la infancia tiene mayor probabilidad de dar a luz ni\u00f1os y ni\u00f1as sanas, y menor probabilidad de sufrir complicaciones durante el embarazo y el parto. ", 
   "language": "spa_ES", 
-  "title": "Siempre y cuando empiecen a procrear despue\u0301s de los 18 an\u0303os, las nin\u0303as que han asistido a la escuela, que gozan de buena salud y que han tenido una dieta nutritiva durante la infancia y la adolesce", 
+  "title": "Cuando la mujer empieza a procrear posterior a sus 18 a\u00f1os de edad, ha asistido a la escuela, goza de buena salud y se ha nutrido adecuadamente desde la infancia tiene mayor probabilidad de dar a luz ", 
   "primary_category": "2564f42489664e1da6236da40027989a", 
-  "created_at": "2014-12-26T13:54:14.986437+00:00", 
+  "created_at": "2014-12-26T13:54:14+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-24T18:20:14.933602+00:00", 
+  "modified_at": "2015-06-18T19:35:25.378563+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
