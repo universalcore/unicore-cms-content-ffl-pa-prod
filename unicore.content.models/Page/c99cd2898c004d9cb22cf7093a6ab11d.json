@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Todo nin\u0303o o nin\u0303a tiene derecho a un nombre y a una nacionalidad. Inscribir el nacimiento de los nin\u0303os y nin\u0303as contribuye a asegurar que tengan derecho a una educacio\u0301n, a atencio\u0301n sanitaria y a servicios sociales. La inscripcio\u0301n del nacimiento es una medida fundamental para proteger a la infancia de los malos tratos y la explotacio\u0301n.", 
+  "description": "Todo ni\u00f1o o ni\u00f1a tiene derecho a un nombre y a una nacionalidad. Inscribir el nacimiento de los nin\u0303os y nin\u0303as contribuye a asegurar que tengan derecho a una educacio\u0301n, a atenci\u00f3n sanitaria y a servicios sociales. La inscripci\u00f3n del nacimiento es una medida fundamental para proteger a la infancia de los malos tratos y la explotaci\u00f3n.", 
   "language": "spa_ES", 
-  "title": "Todo nin\u0303o o nin\u0303a tiene derecho a un nombre y a una nacionalidad. Inscribir el nacimiento de los nin\u0303os y nin\u0303as contribuye a asegurar que tengan derecho a una educacio\u0301n, a atencio\u0301n sanitaria y a s", 
+  "title": "Todo ni\u00f1o o ni\u00f1a tiene derecho a un nombre y a una nacionalidad. Inscribir el nacimiento de los nin\u0303os y nin\u0303as contribuye a asegurar que tengan derecho a una educacio\u0301n, a atenci\u00f3n sanitaria y a serv", 
   "primary_category": "f7530af2e7384c7095b65f2139c969d4", 
-  "created_at": "2015-01-04T21:07:20.461990+00:00", 
+  "created_at": "2015-01-04T21:07:20+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-24T18:53:33.922286+00:00", 
+  "modified_at": "2015-06-18T19:48:50.129600+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
