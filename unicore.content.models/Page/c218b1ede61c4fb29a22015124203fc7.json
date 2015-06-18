@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Tanto los hombres como las mujeres \u2013incluidos los adolescentes\u2013 tienen la responsabilidad de planificar la llegada de los hijos. Los dos miembros de la pareja deben estar conscientes de los beneficios de la planificaci\u00f3n familiar para la salud y conocer las opciones disponibles.", 
+  "description": "Las ni\u00f1as y las adolescentes que reciben una mejor calidad de educaci\u00f3n tienen m\u00e1s probabilidades de utilizar m\u00e9todos m\u00e1s adecuados de planificaci\u00f3n familiar, retrasar el matrimonio y la maternidad. Esto les permite gozar de una mejor salud, situaci\u00f3n econ\u00f3mica, y a su vez, tener hijos m\u00e1s saludables. Por lo anterior, es importante lograr que todas las ni\u00f1as y adolescentes asistan a la escuela y no la abandonen. \r\nPor otro lado, es indispensable educar a los adolescentes, j\u00f3venes y hombres adultos sobre la importancia del uso del preservativo para protegerse de enfermedades de trasmisi\u00f3n sexual como el VIH, y otras, y a su vez, como m\u00e9todo anticonceptivo para evitar embarazos no planificados.\r\n", 
   "language": "spa_ES", 
-  "title": "Tanto los hombres como las mujeres \u2013incluidos los adolescentes\u2013 tienen la responsabilidad de planificar la llegada de los hijos. Los dos miembros de la pareja deben estar conscientes de los beneficios", 
+  "title": "Las ni\u00f1as y las adolescentes que reciben una mejor calidad de educaci\u00f3n tienen m\u00e1s probabilidades de utilizar m\u00e9todos m\u00e1s adecuados de planificaci\u00f3n familiar, retrasar el matrimonio y la maternidad.", 
   "primary_category": "90b731c7f82f4d87afd7f0da83b20d18", 
   "created_at": "2014-12-26T13:45:37+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-24T17:46:48.095450+00:00", 
+  "modified_at": "2015-06-18T20:51:07.057078+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
