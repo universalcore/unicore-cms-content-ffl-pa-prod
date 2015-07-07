@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "Vacunar a los ni\u00f1os y ni\u00f1as cuando presentan alguna enfermedad de menor importancia como fiebre, tos, catarro, o similar no representa ning\u00fan riesgo para el ni\u00f1o.\r\nTodas las mujeres embarazadas y sus hijos reci\u00e9n nacidos deben estar protegidos contra el t\u00e9tanos. Las mujeres que ya est\u00e1n vacunadas contra esta enfermedad deben, no obstante, consultar con un agente de salud sobre la necesidad de protegerse contra el t\u00e9tano.  Se debe utilizar una jeringa nueva para cada persona que se vacuna, y todas las personas deben exigir que este requisito se cumpla. \r\n", 
+  "description": "Vacunar a los ni\u00f1os y ni\u00f1as cuando presentan alguna enfermedad de menor importancia como fiebre, tos, catarro, o similar no representa ning\u00fan riesgo para el ni\u00f1o.\r\nTodas las mujeres embarazadas y sus hijos reci\u00e9n nacidos deben estar protegidos contra el t\u00e9tanos. Las mujeres que ya est\u00e1n vacunadas contra esta enfermedad deben, no obstante, consultar con un agente de salud sobre la necesidad de protegerse contra el t\u00e9tano. Se debe utilizar una jeringa nueva para cada persona que se vacuna, y todas las personas deben exigir que este requisito se cumpla. \r\n", 
   "language": "spa_ES", 
   "title": "Vacunar a los ni\u00f1os y ni\u00f1as cuando presentan alguna enfermedad de menor importancia como fiebre, tos, catarro, o similar no representa ning\u00fan riesgo para el ni\u00f1o.", 
   "primary_category": "d54cc05a9ab94ef3a04d145353093040", 
   "created_at": "2015-06-19T17:39:05+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-07-01T21:45:38.661202+00:00", 
+  "modified_at": "2015-07-07T15:52:35.094166+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
