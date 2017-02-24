@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "22dd736b6563417ba83b3ca6ebaa9c48", 
+  "language": "spa_ES", 
+  "title": "Acerca de Para la vida", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "acerca-de-para-la-vida", 
+  "source": "5c8b3edb21874afb89b70b0359f7e612", 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
